@@ -1,0 +1,28 @@
+C:/Users/Игорь/Documents/Visual Studio 2013/Projects/orders/calculator/calculator/bin/Debug/calculator.exe.config
+C:/Users/Игорь/Documents/Visual Studio 2013/Projects/orders/calculator/calculator/bin/Debug/calculator.exe
+C:/Users/Игорь/Documents/Visual Studio 2013/Projects/orders/calculator/calculator/bin/Debug/calculator.pdb
+C:/Users/Игорь/Documents/Visual Studio 2013/Projects/orders/calculator/calculator/obj/Debug/calculator.csprojResolveAssemblyReference.cache
+C:/Users/Игорь/Documents/Visual Studio 2013/Projects/orders/calculator/calculator/obj/Debug/calculator.Form1.resources
+C:/Users/Игорь/Documents/Visual Studio 2013/Projects/orders/calculator/calculator/obj/Debug/calculator.Properties.Resources.resources
+C:/Users/Игорь/Documents/Visual Studio 2013/Projects/orders/calculator/calculator/obj/Debug/calculator.csproj.GenerateResource.Cache
+C:/Users/Игорь/Documents/Visual Studio 2013/Projects/orders/calculator/calculator/obj/Debug/calculator.exe
+C:/Users/Игорь/Documents/Visual Studio 2013/Projects/orders/calculator/calculator/obj/Debug/calculator.pdb
+C:/Users/Игорь/Desktop/calculator/calculator/bin/Debug/calculator.exe.config
+C:/Users/Игорь/Desktop/calculator/calculator/obj/Debug/calculator.exe
+C:/Users/Игорь/Desktop/calculator/calculator/obj/Debug/calculator.pdb
+C:/Users/Игорь/Desktop/calculator/calculator/bin/Debug/calculator.exe
+C:/Users/Игорь/Desktop/calculator/calculator/bin/Debug/calculator.pdb
+C:/Users/Игорь/Desktop/calculator/calculator/obj/Debug/calculator.csprojResolveAssemblyReference.cache
+C:/Users/Игорь/Desktop/calculator/calculator/obj/Debug/calculator.Form1.resources
+C:/Users/Игорь/Desktop/calculator/calculator/obj/Debug/calculator.Properties.Resources.resources
+C:/Users/Игорь/Desktop/calculator/calculator/obj/Debug/calculator.csproj.GenerateResource.Cache
+/Users/bogdanyusupdjanov/Desktop/РАНХиГС/прога/HOMEWORK/calculator/calculator/bin/Debug/calculator.exe.config
+/Users/bogdanyusupdjanov/Desktop/РАНХиГС/прога/HOMEWORK/calculator/calculator/bin/Debug/calculator.exe
+/Users/bogdanyusupdjanov/Desktop/РАНХиГС/прога/HOMEWORK/calculator/calculator/bin/Debug/calculator.pdb
+/Users/bogdanyusupdjanov/Desktop/РАНХиГС/прога/HOMEWORK/calculator/calculator/obj/Debug/calculator.csproj.AssemblyReference.cache
+/Users/bogdanyusupdjanov/Desktop/РАНХиГС/прога/HOMEWORK/calculator/calculator/obj/Debug/calculator.Form1.resources
+/Users/bogdanyusupdjanov/Desktop/РАНХиГС/прога/HOMEWORK/calculator/calculator/obj/Debug/calculator.Properties.Resources.resources
+/Users/bogdanyusupdjanov/Desktop/РАНХиГС/прога/HOMEWORK/calculator/calculator/obj/Debug/calculator.csproj.GenerateResource.cache
+/Users/bogdanyusupdjanov/Desktop/РАНХиГС/прога/HOMEWORK/calculator/calculator/obj/Debug/calculator.csproj.CoreCompileInputs.cache
+/Users/bogdanyusupdjanov/Desktop/РАНХиГС/прога/HOMEWORK/calculator/calculator/obj/Debug/calculator.exe
+/Users/bogdanyusupdjanov/Desktop/РАНХиГС/прога/HOMEWORK/calculator/calculator/obj/Debug/calculator.pdb
